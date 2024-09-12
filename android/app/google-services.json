@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008834844362",
+    "project_id": "safeminder-10156",
+    "storage_bucket": "safeminder-10156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008834844362:android:5ef3e9f1b1d352d6a58633",
+        "android_client_info": {
+          "package_name": "com.safeminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hxQKJLTVM_XCXcUBH6J74HinWpasOK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
